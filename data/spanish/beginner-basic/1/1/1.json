@@ -1,0 +1,122 @@
+[
+    {
+        "type": "vocab",
+        "new_word": "Hola",
+        "translation": "Hello",
+        "id": 1,
+        "spoken_id": "f688ae26e9cfa3ba6235477831d5122e"
+    },
+    {
+        "type": "translate",
+        "sentence": "How are you?",
+        "translations": [
+            "\u00bfC\u00f3mo est\u00e1s?",
+            "\u00bfC\u00f3mo te va?",
+            "Hola, \u00bfqu\u00e9 tal?"
+        ],
+        "id": 2,
+        "spoken_id": "04e35eb3e4fcb8b395191053c359ca0e"
+    },
+    {
+        "type": "transcribe_easy",
+        "sentence": "Mi nombre es Juan",
+        "options": [
+            "Mi",
+            "nombre",
+            "es",
+            "Juan",
+            "perro",
+            "gato",
+            "mesa",
+            "silla"
+        ],
+        "id": 3,
+        "spoken_id": "81305dcefe29b9b2ac48ccaa0ebd66b0"
+    },
+    {
+        "type": "transcribe_hard",
+        "sentence": "Hola, \u00bfc\u00f3mo te llamas?",
+        "id": 4,
+        "spoken_id": "acc4d6064cdf9f10984d69bc5239b07c"
+    },
+    {
+        "type": "vocab",
+        "new_word": "Adi\u00f3s",
+        "translation": "Goodbye",
+        "id": 5,
+        "spoken_id": "8239d3b0c51de480011934efc8c015e3"
+    },
+    {
+        "type": "translate",
+        "sentence": "What time is it?",
+        "translations": [
+            "\u00bfQu\u00e9 hora es?",
+            "\u00bfCu\u00e1l es la hora?",
+            "\u00bfQu\u00e9 hora tienes?"
+        ],
+        "id": 6,
+        "spoken_id": "67e07d17d43ee2e70633123fdaba8181"
+    },
+    {
+        "type": "transcribe_easy",
+        "sentence": "Tengo fiebre",
+        "options": [
+            "Tengo",
+            "fiebre",
+            "dolor",
+            "de",
+            "cabeza",
+            "est\u00f3mago",
+            "gripe",
+            "resfriado"
+        ],
+        "id": 7,
+        "spoken_id": "24abe6c7c8c555abe1efb05c89e80c4a"
+    },
+    {
+        "type": "transcribe_hard",
+        "sentence": "\u00bfC\u00f3mo est\u00e1s?",
+        "id": 8,
+        "spoken_id": "33c7b4653703de3854f09e47b7bfd80b"
+    },
+    {
+        "type": "vocab",
+        "new_word": "Gracias",
+        "translation": "Thank you",
+        "id": 9,
+        "spoken_id": "e44165d04caec1113db6159d0210c4c3"
+    },
+    {
+        "type": "translate",
+        "sentence": "Where is the bathroom?",
+        "translations": [
+            "\u00bfD\u00f3nde est\u00e1 el ba\u00f1o?",
+            "\u00bfD\u00f3nde est\u00e1 el lavabo?",
+            "\u00bfD\u00f3nde est\u00e1 el aseo?"
+        ],
+        "id": 10,
+        "spoken_id": "fafa77963a8e1b5bf983e2d865efb005"
+    },
+    {
+        "type": "transcribe_easy",
+        "sentence": "Quiero ir al cine",
+        "options": [
+            "Quiero",
+            "ir",
+            "al",
+            "cine",
+            "teatro",
+            "museo",
+            "parque",
+            "restaurante"
+        ],
+        "id": 11,
+        "spoken_id": "5d18b95fa4e0ff29bd5b5194986e862f"
+    },
+    {
+        "type": "transcribe_hard",
+        "sentence": "Tengo hambre",
+        "id": 12,
+        "spoken_id": "eff04da6a8d0bcba1f4b4ff57f6cdaaf"
+    }
+]

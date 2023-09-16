@@ -1,0 +1,122 @@
+[
+    {
+        "type": "vocab",
+        "new_word": "\u00bfC\u00f3mo te llamas?",
+        "translation": "What is your name?",
+        "id": 1,
+        "spoken_id": "b5a266a1e5af837a040b3db81c72d67b"
+    },
+    {
+        "type": "translate",
+        "sentence": "My name is Juan",
+        "translations": [
+            "Mi nombre es Juan",
+            "Me llamo Juan",
+            "Soy Juan"
+        ],
+        "id": 2,
+        "spoken_id": "9ce937927e6330a081772959203cfd19"
+    },
+    {
+        "type": "transcribe_easy",
+        "sentence": "Tengo fiebre",
+        "options": [
+            "Tengo",
+            "fiebre",
+            "dolor",
+            "de",
+            "cabeza",
+            "est\u00f3mago",
+            "gripe",
+            "resfriado"
+        ],
+        "id": 3,
+        "spoken_id": "24abe6c7c8c555abe1efb05c89e80c4a"
+    },
+    {
+        "type": "transcribe_hard",
+        "sentence": "\u00bfC\u00f3mo est\u00e1s?",
+        "id": 4,
+        "spoken_id": "33c7b4653703de3854f09e47b7bfd80b"
+    },
+    {
+        "type": "vocab",
+        "new_word": "Tengo fiebre",
+        "translation": "I have a fever",
+        "id": 5,
+        "spoken_id": "24abe6c7c8c555abe1efb05c89e80c4a"
+    },
+    {
+        "type": "translate",
+        "sentence": "I am fine, thank you.",
+        "translations": [
+            "Estoy bien, gracias.",
+            "Estoy bien, gracias.",
+            "Estoy bien, gracias."
+        ],
+        "id": 6,
+        "spoken_id": "41755b1d239b9c7c827908b6fb7aa2bf"
+    },
+    {
+        "type": "transcribe_easy",
+        "sentence": "Quiero ir al cine",
+        "options": [
+            "Quiero",
+            "ir",
+            "al",
+            "cine",
+            "teatro",
+            "museo",
+            "parque",
+            "restaurante"
+        ],
+        "id": 7,
+        "spoken_id": "5d18b95fa4e0ff29bd5b5194986e862f"
+    },
+    {
+        "type": "transcribe_hard",
+        "sentence": "Tengo hambre",
+        "id": 8,
+        "spoken_id": "eff04da6a8d0bcba1f4b4ff57f6cdaaf"
+    },
+    {
+        "type": "vocab",
+        "new_word": "Tengo hambre",
+        "translation": "I am hungry",
+        "id": 9,
+        "spoken_id": "eff04da6a8d0bcba1f4b4ff57f6cdaaf"
+    },
+    {
+        "type": "translate",
+        "sentence": "Can you help me?",
+        "translations": [
+            "\u00bfPuedes ayudarme?",
+            "\u00bfMe puedes ayudar?",
+            "\u00bfPodr\u00edas ayudarme?"
+        ],
+        "id": 10,
+        "spoken_id": "788c38ffebe72516e39dafe8a45278f6"
+    },
+    {
+        "type": "transcribe_easy",
+        "sentence": "Quiero ir al cine",
+        "options": [
+            "Quiero",
+            "ir",
+            "al",
+            "cine",
+            "teatro",
+            "museo",
+            "parque",
+            "restaurante"
+        ],
+        "id": 11,
+        "spoken_id": "5d18b95fa4e0ff29bd5b5194986e862f"
+    },
+    {
+        "type": "transcribe_hard",
+        "sentence": "Tengo hambre",
+        "id": 12,
+        "spoken_id": "eff04da6a8d0bcba1f4b4ff57f6cdaaf"
+    }
+]

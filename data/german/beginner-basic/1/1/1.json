@@ -1,0 +1,78 @@
+[
+    {
+        "type": "vocab",
+        "new_word": "Hallo",
+        "translation": "Hello",
+        "id": 1,
+        "spoken_id": "d1bf93299de1b68e6d382c893bf1215f"
+    },
+    {
+        "type": "translate",
+        "sentence": "Wie geht es dir?",
+        "translations": [
+            "How are you?",
+            "How is it going?",
+            "What's up?"
+        ],
+        "id": 2,
+        "spoken_id": "39b69aa9ed65d8e38212cbbbdfc8a232"
+    },
+    {
+        "type": "transcribe_easy",
+        "sentence": "Ich bin Peter.",
+        "options": [
+            "Ich",
+            "bin",
+            "Peter",
+            "Peter",
+            "bin",
+            "Ich"
+        ],
+        "id": 3,
+        "spoken_id": "68e7bedd2b5712033eba59cda0f61b98"
+    },
+    {
+        "type": "transcribe_hard",
+        "sentence": "Ich komme aus Deutschland.",
+        "id": 4,
+        "spoken_id": "b3dcdd9ef77e88d6a8dcedf67d60efee"
+    },
+    {
+        "type": "speech",
+        "sentence": "Wie alt bist du?",
+        "id": 5
+    },
+    {
+        "type": "vocab",
+        "new_word": "Tsch\u00fcss",
+        "translation": "Goodbye",
+        "id": 6,
+        "spoken_id": "2a8f72d11e60ea1d9757aeba0bdd3317"
+    },
+    {
+        "type": "translate",
+        "sentence": "Ich hei\u00dfe Peter.",
+        "translations": [
+            "My name is Peter.",
+            "I am called Peter.",
+            "Peter is my name."
+        ],
+        "id": 7,
+        "spoken_id": "12e968734615d7b9d64fa55df0a59d07"
+    },
+    {
+        "type": "transcribe_easy",
+        "sentence": "Ich wohne in Berlin.",
+        "options": [
+            "Ich",
+            "wohne",
+            "in",
+            "Berlin",
+            "Berlin",
+            "wohne",
+            "Ich"
+        ],
+        "id": 8,
+        "spoken_id": "555ace67e9c8983988b7b488e79426e5"
+    }
+]
